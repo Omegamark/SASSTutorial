@@ -1,0 +1,14 @@
+body {
+  background: #d2e1dd;
+  color: #333;
+  font-family: "Andale Mono", monospace;
+  font-size: 14px; }
+
+article {
+  background: white;
+  width: 760px;
+  margin: 0px auto;
+  padding: 40px;
+  box-sizing: border-box; }
+
+/*# sourceMappingURL=app.css.map */
