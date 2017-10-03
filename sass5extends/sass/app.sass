@@ -1,0 +1,13 @@
+// Import all sass directory files
+// By loading variables first, the global variables are available to all subsequent partials (partial sass files compiled into one css file)
+@import "variables"
+// Import global mixins
+@import "mixins"
+
+// Import your directories
+@import "0-plugins/plugins-dir"
+@import "1-base/base-dir"
+@import "2-layouts/layouts-dir"
+@import "3-modules/modules-dir"
+
+// Import any additional sass below...
